@@ -4,11 +4,13 @@ Windows x64 Photoshop 辅助工具，支持选中图层导出 PNG/TGA、连接�
 
 ## 下载与运行
 
-前往 [最新正式版本](https://github.com/ooccll/ps-slice-releases/releases/latest)，下载 `PS切图_Tga.exe` 到本机运行。需已安装 Photoshop；程序不需要 Python、Git 或 GitHub 登录。
+前往 [最新正式版本](https://github.com/ooccll/ps-slice-releases/releases/latest)，下载 `PS_Slice.exe` 到本机运行，也可重命名为 `PS切图_Tga.exe` 替换旧版。需已安装 Photoshop；程序不需要 Python、Git 或 GitHub 登录。
+
+GitHub 附件使用固定的 ASCII 文件名，避免平台重命名中文附件；程序界面及本地构建名称保持中文。
 
 此仓库仅分发可执行程序、更新说明与校验文件。每个正式版本提供：
 
-- `PS切图_Tga.exe`：Windows x64 程序。
+- `PS_Slice.exe`：Windows x64 程序。
 - `update.json`：版本、下载地址、更新说明和 SHA-256 校验信息。
 - `SHA256SUMS.txt`：EXE 的 SHA-256 校验值。
 
